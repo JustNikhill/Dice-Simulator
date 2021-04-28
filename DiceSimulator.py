@@ -1,3 +1,11 @@
+# Dice simulator in Python 
+# developer @JustNikhill
+
+
+
+
+
+
 # INSTALL FOLLOWING PIP
 
 import tkinter                                 
